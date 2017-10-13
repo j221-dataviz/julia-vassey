@@ -1,0 +1,668 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+"Total"	"Anchorage Borough, AK"	"02020"			54	8474	6.4	4.8	8.3
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	13	2282	5.7 (Unreliable)	3.0	9.7
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	24	2491	9.6	6.2	14.3
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	12	2412	5.0 (Unreliable)	2.6	8.7
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	13	2487	5.2 (Unreliable)	2.8	8.9
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	12	2183	5.5 (Unreliable)	2.8	9.6
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	14	2316	6.0 (Unreliable)	3.3	10.1
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	10	2539	3.9 (Unreliable)	1.9	7.2
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	11	2700	4.1 (Unreliable)	2.0	7.3
+"Total"	"Maricopa County, AZ"	"04013"			173	36104	4.8	4.1	5.5
+"Total"	"Pima County, AZ"	"04019"			17	6818	2.5 (Unreliable)	1.5	4.0
+"Total"	"Benton County, AR"	"05007"			15	2307	6.5 (Unreliable)	3.6	10.7
+"Total"	"Pulaski County, AR"	"05119"			11	2191	5.0 (Unreliable)	2.5	9.0
+"Total"	"Washington County, AR"	"05143"			16	2879	5.6 (Unreliable)	3.2	9.0
+	"Alameda County, CA"	"06001"	"1999"	"1999"	19	4385	4.3 (Unreliable)	2.6	6.8
+	"Alameda County, CA"	"06001"	"2000"	"2000"	21	4526	4.6	2.9	7.1
+	"Alameda County, CA"	"06001"	"2001"	"2001"	26	5681	4.6	3.0	6.7
+	"Alameda County, CA"	"06001"	"2002"	"2002"	14	5711	2.5 (Unreliable)	1.3	4.1
+	"Alameda County, CA"	"06001"	"2003"	"2003"	24	5807	4.1	2.6	6.1
+	"Alameda County, CA"	"06001"	"2004"	"2004"	28	5648	5.0	3.3	7.2
+	"Alameda County, CA"	"06001"	"2005"	"2005"	25	5588	4.5	2.9	6.6
+	"Alameda County, CA"	"06001"	"2006"	"2006"	12	5420	2.2 (Unreliable)	1.1	3.9
+	"Alameda County, CA"	"06001"	"2007"	"2007"	24	5554	4.3	2.8	6.4
+	"Alameda County, CA"	"06001"	"2008"	"2008"	13	5883	2.2 (Unreliable)	1.2	3.8
+	"Alameda County, CA"	"06001"	"2009"	"2009"	21	5642	3.7	2.3	5.7
+	"Alameda County, CA"	"06001"	"2010"	"2010"	21	5642	3.7	2.3	5.7
+	"Alameda County, CA"	"06001"	"2011"	"2011"	20	5155	3.9	2.4	6.0
+	"Alameda County, CA"	"06001"	"2012"	"2012"	19	5327	3.6 (Unreliable)	2.1	5.6
+	"Alameda County, CA"	"06001"	"2013"	"2013"	15	5864	2.6 (Unreliable)	1.4	4.2
+	"Alameda County, CA"	"06001"	"2014"	"2014"	17	5554	3.1 (Unreliable)	1.8	4.9
+	"Alameda County, CA"	"06001"	"2015"	"2015"	14	5611	2.5 (Unreliable)	1.4	4.2
+"Total"	"Alameda County, CA"	"06001"			333	92998	3.6	3.2	4.0
+"Total"	"Butte County, CA"	"06007"			15	2781	5.4 (Unreliable)	3.0	8.9
+	"Contra Costa County, CA"	"06013"	"2001"	"2001"	10	1738	5.8 (Unreliable)	2.8	10.6
+	"Contra Costa County, CA"	"06013"	"2009"	"2009"	11	2045	5.4 (Unreliable)	2.7	9.6
+	"Contra Costa County, CA"	"06013"	"2011"	"2011"	13	1956	6.6 (Unreliable)	3.5	11.4
+	"Contra Costa County, CA"	"06013"	"2012"	"2012"	10	1902	5.3 (Unreliable)	2.5	9.7
+"Total"	"Contra Costa County, CA"	"06013"			118	31795	3.7	3.0	4.4
+	"Fresno County, CA"	"06019"	"2003"	"2003"	11	1497	7.3 (Unreliable)	3.7	13.1
+	"Fresno County, CA"	"06019"	"2004"	"2004"	11	1561	7.0 (Unreliable)	3.5	12.6
+	"Fresno County, CA"	"06019"	"2007"	"2007"	11	1951	5.6 (Unreliable)	2.8	10.1
+	"Fresno County, CA"	"06019"	"2008"	"2008"	13	2073	6.3 (Unreliable)	3.3	10.7
+	"Fresno County, CA"	"06019"	"2009"	"2009"	12	1864	6.4 (Unreliable)	3.3	11.2
+	"Fresno County, CA"	"06019"	"2011"	"2011"	13	1613	8.1 (Unreliable)	4.3	13.8
+	"Fresno County, CA"	"06019"	"2012"	"2012"	10	1645	6.1 (Unreliable)	2.9	11.2
+	"Fresno County, CA"	"06019"	"2013"	"2013"	13	1646	7.9 (Unreliable)	4.2	13.5
+	"Fresno County, CA"	"06019"	"2014"	"2014"	15	1624	9.2 (Unreliable)	5.2	15.2
+	"Fresno County, CA"	"06019"	"2015"	"2015"	11	1585	6.9 (Unreliable)	3.5	12.4
+"Total"	"Fresno County, CA"	"06019"			159	27442	5.8	4.9	6.7
+"Total"	"Kern County, CA"	"06029"			36	8968	4.0	2.8	5.6
+	"Los Angeles County, CA"	"06037"	"1999"	"1999"	56	13870	4.0	3.0	5.2
+	"Los Angeles County, CA"	"06037"	"2000"	"2000"	42	13887	3.0	2.2	4.1
+	"Los Angeles County, CA"	"06037"	"2001"	"2001"	57	15640	3.6	2.8	4.7
+	"Los Angeles County, CA"	"06037"	"2002"	"2002"	65	14707	4.4	3.4	5.6
+	"Los Angeles County, CA"	"06037"	"2003"	"2003"	59	15037	3.9	3.0	5.1
+	"Los Angeles County, CA"	"06037"	"2004"	"2004"	64	14781	4.3	3.3	5.5
+	"Los Angeles County, CA"	"06037"	"2005"	"2005"	47	14982	3.1	2.3	4.2
+	"Los Angeles County, CA"	"06037"	"2006"	"2006"	59	14282	4.1	3.1	5.3
+	"Los Angeles County, CA"	"06037"	"2007"	"2007"	70	14595	4.8	3.7	6.1
+	"Los Angeles County, CA"	"06037"	"2008"	"2008"	62	15544	4.0	3.1	5.1
+	"Los Angeles County, CA"	"06037"	"2009"	"2009"	58	14502	4.0	3.0	5.2
+	"Los Angeles County, CA"	"06037"	"2010"	"2010"	49	14598	3.4	2.5	4.4
+	"Los Angeles County, CA"	"06037"	"2011"	"2011"	65	14516	4.5	3.5	5.7
+	"Los Angeles County, CA"	"06037"	"2012"	"2012"	66	15904	4.1	3.2	5.3
+	"Los Angeles County, CA"	"06037"	"2013"	"2013"	55	18788	2.9	2.2	3.8
+	"Los Angeles County, CA"	"06037"	"2014"	"2014"	52	16545	3.1	2.3	4.1
+	"Los Angeles County, CA"	"06037"	"2015"	"2015"	63	15855	4.0	3.1	5.1
+"Total"	"Los Angeles County, CA"	"06037"			989	258033	3.8	3.6	4.1
+"Total"	"Marin County, CA"	"06041"			10	2830	3.5 (Unreliable)	1.7	6.5
+"Total"	"Merced County, CA"	"06047"			22	5441	4.0	2.5	6.1
+"Total"	"Monterey County, CA"	"06053"			25	5637	4.4	2.9	6.5
+	"Orange County, CA"	"06059"	"1999"	"1999"	27	5222	5.2	3.4	7.5
+	"Orange County, CA"	"06059"	"2000"	"2000"	25	5349	4.7	3.0	6.9
+	"Orange County, CA"	"06059"	"2001"	"2001"	18	6285	2.9 (Unreliable)	1.7	4.5
+	"Orange County, CA"	"06059"	"2002"	"2002"	27	6054	4.5	2.9	6.5
+	"Orange County, CA"	"06059"	"2003"	"2003"	28	6480	4.3	2.9	6.2
+	"Orange County, CA"	"06059"	"2004"	"2004"	19	6729	2.8 (Unreliable)	1.7	4.4
+	"Orange County, CA"	"06059"	"2005"	"2005"	25	6413	3.9	2.5	5.8
+	"Orange County, CA"	"06059"	"2006"	"2006"	23	6539	3.5	2.2	5.3
+	"Orange County, CA"	"06059"	"2007"	"2007"	27	6612	4.1	2.7	5.9
+	"Orange County, CA"	"06059"	"2008"	"2008"	21	6981	3.0	1.9	4.6
+	"Orange County, CA"	"06059"	"2009"	"2009"	25	6359	3.9	2.5	5.8
+	"Orange County, CA"	"06059"	"2010"	"2010"	15	6464	2.3 (Unreliable)	1.3	3.8
+	"Orange County, CA"	"06059"	"2011"	"2011"	21	5957	3.5	2.2	5.4
+	"Orange County, CA"	"06059"	"2012"	"2012"	22	6373	3.5	2.2	5.2
+	"Orange County, CA"	"06059"	"2013"	"2013"	18	6998	2.6 (Unreliable)	1.5	4.1
+	"Orange County, CA"	"06059"	"2014"	"2014"	20	6654	3.0	1.8	4.6
+	"Orange County, CA"	"06059"	"2015"	"2015"	18	6606	2.7 (Unreliable)	1.6	4.3
+"Total"	"Orange County, CA"	"06059"			379	108075	3.5	3.2	3.9
+"Total"	"Placer County, CA"	"06061"			25	4499	5.6	3.6	8.2
+	"Riverside County, CA"	"06065"	"2002"	"2002"	11	979	11.2 (Unreliable)	5.6	20.1
+	"Riverside County, CA"	"06065"	"2007"	"2007"	13	1771	7.3 (Unreliable)	3.9	12.6
+	"Riverside County, CA"	"06065"	"2008"	"2008"	13	1876	6.9 (Unreliable)	3.7	11.8
+"Total"	"Riverside County, CA"	"06065"			108	25824	4.2	3.4	5.0
+	"Sacramento County, CA"	"06067"	"2000"	"2000"	17	2254	7.5 (Unreliable)	4.4	12.1
+	"Sacramento County, CA"	"06067"	"2001"	"2001"	13	2753	4.7 (Unreliable)	2.5	8.1
+	"Sacramento County, CA"	"06067"	"2002"	"2002"	13	2745	4.7 (Unreliable)	2.5	8.1
+	"Sacramento County, CA"	"06067"	"2003"	"2003"	15	2968	5.1 (Unreliable)	2.8	8.3
+	"Sacramento County, CA"	"06067"	"2004"	"2004"	15	3087	4.9 (Unreliable)	2.7	8.0
+	"Sacramento County, CA"	"06067"	"2005"	"2005"	15	3253	4.6 (Unreliable)	2.6	7.6
+	"Sacramento County, CA"	"06067"	"2006"	"2006"	17	3437	4.9 (Unreliable)	2.9	7.9
+	"Sacramento County, CA"	"06067"	"2007"	"2007"	20	3553	5.6	3.4	8.7
+	"Sacramento County, CA"	"06067"	"2008"	"2008"	17	3686	4.6 (Unreliable)	2.7	7.4
+	"Sacramento County, CA"	"06067"	"2009"	"2009"	18	3501	5.1 (Unreliable)	3.0	8.1
+	"Sacramento County, CA"	"06067"	"2010"	"2010"	18	3447	5.2 (Unreliable)	3.1	8.3
+	"Sacramento County, CA"	"06067"	"2011"	"2011"	19	3195	5.9 (Unreliable)	3.6	9.3
+	"Sacramento County, CA"	"06067"	"2012"	"2012"	16	3205	5.0 (Unreliable)	2.9	8.1
+	"Sacramento County, CA"	"06067"	"2014"	"2014"	23	3358	6.8	4.3	10.3
+	"Sacramento County, CA"	"06067"	"2015"	"2015"	14	3410	4.1 (Unreliable)	2.2	6.9
+"Total"	"Sacramento County, CA"	"06067"			267	53343	5.0	4.4	5.6
+	"San Bernardino County, CA"	"06071"	"2009"	"2009"	10	1967	5.1 (Unreliable)	2.4	9.3
+	"San Bernardino County, CA"	"06071"	"2014"	"2014"	14	2024	6.9 (Unreliable)	3.8	11.6
+"Total"	"San Bernardino County, CA"	"06071"			116	29272	4.0	3.2	4.7
+	"San Diego County, CA"	"06073"	"1999"	"1999"	12	3832	3.1 (Unreliable)	1.6	5.5
+	"San Diego County, CA"	"06073"	"2000"	"2000"	20	3891	5.1	3.1	7.9
+	"San Diego County, CA"	"06073"	"2001"	"2001"	31	4205	7.4	5.0	10.5
+	"San Diego County, CA"	"06073"	"2002"	"2002"	21	4094	5.1	3.2	7.8
+	"San Diego County, CA"	"06073"	"2003"	"2003"	21	4357	4.8	3.0	7.4
+	"San Diego County, CA"	"06073"	"2004"	"2004"	17	4346	3.9 (Unreliable)	2.3	6.3
+	"San Diego County, CA"	"06073"	"2005"	"2005"	16	4227	3.8 (Unreliable)	2.2	6.1
+	"San Diego County, CA"	"06073"	"2006"	"2006"	19	4405	4.3 (Unreliable)	2.6	6.7
+	"San Diego County, CA"	"06073"	"2007"	"2007"	25	4584	5.5	3.5	8.1
+	"San Diego County, CA"	"06073"	"2008"	"2008"	24	4780	5.0	3.2	7.5
+	"San Diego County, CA"	"06073"	"2009"	"2009"	24	4755	5.0	3.2	7.5
+	"San Diego County, CA"	"06073"	"2010"	"2010"	18	4853	3.7 (Unreliable)	2.2	5.9
+	"San Diego County, CA"	"06073"	"2011"	"2011"	23	4592	5.0	3.2	7.5
+	"San Diego County, CA"	"06073"	"2012"	"2012"	19	4529	4.2 (Unreliable)	2.5	6.6
+	"San Diego County, CA"	"06073"	"2013"	"2013"	21	4813	4.4	2.7	6.7
+	"San Diego County, CA"	"06073"	"2014"	"2014"	11	5249	2.1 (Unreliable)	1.0	3.7
+	"San Diego County, CA"	"06073"	"2015"	"2015"	13	5618	2.3 (Unreliable)	1.2	4.0
+"Total"	"San Diego County, CA"	"06073"			335	77130	4.3	3.9	4.8
+	"San Francisco County, CA"	"06075"	"2000"	"2000"	10	2154	4.6 (Unreliable)	2.2	8.5
+	"San Francisco County, CA"	"06075"	"2007"	"2007"	11	2311	4.8 (Unreliable)	2.4	8.5
+	"San Francisco County, CA"	"06075"	"2010"	"2010"	11	2234	4.9 (Unreliable)	2.5	8.8
+	"San Francisco County, CA"	"06075"	"2015"	"2015"	10	2666	3.8 (Unreliable)	1.8	6.9
+"Total"	"San Francisco County, CA"	"06075"			122	40961	3.0	2.4	3.5
+	"San Joaquin County, CA"	"06077"	"2000"	"2000"	12	1122	10.7 (Unreliable)	5.5	18.7
+	"San Joaquin County, CA"	"06077"	"2005"	"2005"	11	1868	5.9 (Unreliable)	2.9	10.5
+	"San Joaquin County, CA"	"06077"	"2008"	"2008"	13	2019	6.4 (Unreliable)	3.4	11.0
+	"San Joaquin County, CA"	"06077"	"2011"	"2011"	12	1485	8.1 (Unreliable)	4.2	14.1
+"Total"	"San Joaquin County, CA"	"06077"			135	27410	4.9	4.1	5.8
+	"San Mateo County, CA"	"06081"	"2000"	"2000"	13	2180	6.0 (Unreliable)	3.2	10.2
+	"San Mateo County, CA"	"06081"	"2001"	"2001"	12	2543	4.7 (Unreliable)	2.4	8.2
+	"San Mateo County, CA"	"06081"	"2003"	"2003"	16	2454	6.5 (Unreliable)	3.7	10.6
+	"San Mateo County, CA"	"06081"	"2005"	"2005"	12	2400	5.0 (Unreliable)	2.6	8.7
+	"San Mateo County, CA"	"06081"	"2006"	"2006"	10	2470	4.0 (Unreliable)	1.9	7.4
+	"San Mateo County, CA"	"06081"	"2008"	"2008"	11	2546	4.3 (Unreliable)	2.2	7.7
+	"San Mateo County, CA"	"06081"	"2010"	"2010"	13	2702	4.8 (Unreliable)	2.6	8.2
+	"San Mateo County, CA"	"06081"	"2015"	"2015"	13	2834	4.6 (Unreliable)	2.4	7.8
+"Total"	"San Mateo County, CA"	"06081"			161	43370	3.7	3.1	4.3
+"Total"	"Santa Barbara County, CA"	"06083"			14	3937	3.6 (Unreliable)	1.9	6.0
+	"Santa Clara County, CA"	"06085"	"1999"	"1999"	31	6867	4.5	3.1	6.4
+	"Santa Clara County, CA"	"06085"	"2000"	"2000"	34	7101	4.8	3.3	6.7
+	"Santa Clara County, CA"	"06085"	"2001"	"2001"	24	8999	2.7	1.7	4.0
+	"Santa Clara County, CA"	"06085"	"2002"	"2002"	24	8632	2.8	1.8	4.1
+	"Santa Clara County, CA"	"06085"	"2003"	"2003"	28	9051	3.1	2.1	4.5
+	"Santa Clara County, CA"	"06085"	"2004"	"2004"	34	8750	3.9	2.7	5.4
+	"Santa Clara County, CA"	"06085"	"2005"	"2005"	27	8442	3.2	2.1	4.7
+	"Santa Clara County, CA"	"06085"	"2006"	"2006"	35	8202	4.3	3.0	5.9
+	"Santa Clara County, CA"	"06085"	"2007"	"2007"	28	8680	3.2	2.1	4.7
+	"Santa Clara County, CA"	"06085"	"2008"	"2008"	27	9061	3.0	2.0	4.3
+	"Santa Clara County, CA"	"06085"	"2009"	"2009"	36	8398	4.3	3.0	5.9
+	"Santa Clara County, CA"	"06085"	"2010"	"2010"	18	8399	2.1 (Unreliable)	1.3	3.4
+	"Santa Clara County, CA"	"06085"	"2011"	"2011"	14	7945	1.8 (Unreliable)	1.0	3.0
+	"Santa Clara County, CA"	"06085"	"2012"	"2012"	26	8175	3.2	2.1	4.7
+	"Santa Clara County, CA"	"06085"	"2013"	"2013"	16	8982	1.8 (Unreliable)	1.0	2.9
+	"Santa Clara County, CA"	"06085"	"2014"	"2014"	20	7999	2.5	1.5	3.9
+	"Santa Clara County, CA"	"06085"	"2015"	"2015"	33	8015	4.1	2.8	5.8
+"Total"	"Santa Clara County, CA"	"06085"			455	141698	3.2	2.9	3.5
+"Total"	"Solano County, CA"	"06095"			69	13889	5.0	3.9	6.3
+"Total"	"Sonoma County, CA"	"06097"			13	4279	3.0 (Unreliable)	1.6	5.2
+"Total"	"Stanislaus County, CA"	"06099"			34	7543	4.5	3.1	6.3
+"Total"	"Sutter County, CA"	"06101"			18	3386	5.3 (Unreliable)	3.2	8.4
+"Total"	"Tulare County, CA"	"06107"			13	4429	2.9 (Unreliable)	1.6	5.0
+"Total"	"Ventura County, CA"	"06111"			49	11770	4.2	3.1	5.5
+"Total"	"Yolo County, CA"	"06113"			10	4348	2.3 (Unreliable)	1.1	4.2
+"Total"	"Adams County, CO"	"08001"			30	4964	6.0	4.1	8.6
+"Total"	"Arapahoe County, CO"	"08005"			32	7095	4.5	3.1	6.4
+"Total"	"Boulder County, CO"	"08013"			10	3004	3.3 (Unreliable)	1.6	6.1
+"Total"	"Denver County, CO"	"08031"			34	5785	5.9	4.1	8.2
+"Total"	"El Paso County, CO"	"08041"			20	5413	3.7	2.3	5.7
+"Total"	"Jefferson County, CO"	"08059"			21	3542	5.9	3.7	9.1
+"Total"	"Fairfield County, CT"	"09001"			32	11566	2.8	1.9	3.9
+"Total"	"Hartford County, CT"	"09003"			37	9849	3.8	2.6	5.2
+"Total"	"New Haven County, CT"	"09009"			31	7772	4.0	2.7	5.7
+"Total"	"New London County, CT"	"09011"			11	2399	4.6 (Unreliable)	2.3	8.2
+"Total"	"New Castle County, DE"	"10003"			23	6676	3.4	2.2	5.2
+"Total"	"District of Columbia, DC"	"11001"			15	4639	3.2 (Unreliable)	1.8	5.3
+"Total"	"Alachua County, FL"	"12001"			10	2594	3.9 (Unreliable)	1.8	7.1
+"Total"	"Broward County, FL"	"12011"			42	14129	3.0	2.1	4.0
+"Total"	"Duval County, FL"	"12031"			56	9311	6.0	4.5	7.8
+"Total"	"Hillsborough County, FL"	"12057"			49	10432	4.7	3.5	6.2
+"Total"	"Leon County, FL"	"12073"			10	1991	5.0 (Unreliable)	2.4	9.2
+"Total"	"Miami-Dade County, FL"	"12086"			28	7889	3.5	2.4	5.1
+"Total"	"Orange County, FL"	"12095"			40	12629	3.2	2.3	4.3
+"Total"	"Osceola County, FL"	"12097"			12	2053	5.8 (Unreliable)	3.0	10.2
+"Total"	"Palm Beach County, FL"	"12099"			12	7154	1.7 (Unreliable)	0.9	2.9
+"Total"	"Pinellas County, FL"	"12103"			18	6372	2.8 (Unreliable)	1.7	4.5
+"Total"	"Clayton County, GA"	"13063"			17	3574	4.8 (Unreliable)	2.8	7.6
+"Total"	"Cobb County, GA"	"13067"			23	8662	2.7	1.7	4.0
+"Total"	"DeKalb County, GA"	"13089"			36	12565	2.9	2.0	4.0
+"Total"	"Fulton County, GA"	"13121"			41	12219	3.4	2.4	4.6
+"Total"	"Gwinnett County, GA"	"13135"			75	20437	3.7	2.9	4.6
+"Total"	"Henry County, GA"	"13151"			12	1275	9.4 (Unreliable)	4.9	16.4
+"Total"	"Muscogee County, GA"	"13215"			11	1240	8.9 (Unreliable)	4.4	15.9
+	"Hawaii County, HI"	"15001"	"1999"	"1999"	13	1208	10.8 (Unreliable)	5.7	18.4
+	"Hawaii County, HI"	"15001"	"2000"	"2000"	16	1199	13.3 (Unreliable)	7.6	21.7
+	"Hawaii County, HI"	"15001"	"2003"	"2003"	17	1316	12.9 (Unreliable)	7.5	20.7
+	"Hawaii County, HI"	"15001"	"2004"	"2004"	11	1399	7.9 (Unreliable)	3.9	14.1
+	"Hawaii County, HI"	"15001"	"2005"	"2005"	12	1451	8.3 (Unreliable)	4.3	14.4
+	"Hawaii County, HI"	"15001"	"2006"	"2006"	10	1438	7.0 (Unreliable)	3.3	12.8
+	"Hawaii County, HI"	"15001"	"2007"	"2007"	12	1570	7.6 (Unreliable)	3.9	13.4
+	"Hawaii County, HI"	"15001"	"2008"	"2008"	11	1665	6.6 (Unreliable)	3.3	11.8
+	"Hawaii County, HI"	"15001"	"2009"	"2009"	17	1667	10.2 (Unreliable)	5.9	16.3
+	"Hawaii County, HI"	"15001"	"2010"	"2010"	11	1572	7.0 (Unreliable)	3.5	12.5
+	"Hawaii County, HI"	"15001"	"2011"	"2011"	11	1508	7.3 (Unreliable)	3.6	13.1
+"Total"	"Hawaii County, HI"	"15001"			179	24565	7.3	6.2	8.4
+	"Honolulu County, HI"	"15003"	"1999"	"1999"	74	7502	9.9	7.7	12.4
+	"Honolulu County, HI"	"15003"	"2000"	"2000"	78	7422	10.5	8.3	13.1
+	"Honolulu County, HI"	"15003"	"2001"	"2001"	58	8452	6.9	5.2	8.9
+	"Honolulu County, HI"	"15003"	"2002"	"2002"	80	8187	9.8	7.7	12.2
+	"Honolulu County, HI"	"15003"	"2003"	"2003"	70	8397	8.3	6.5	10.5
+	"Honolulu County, HI"	"15003"	"2004"	"2004"	47	8701	5.4	4.0	7.2
+	"Honolulu County, HI"	"15003"	"2005"	"2005"	57	8472	6.7	5.1	8.7
+	"Honolulu County, HI"	"15003"	"2006"	"2006"	59	8313	7.1	5.4	9.2
+	"Honolulu County, HI"	"15003"	"2007"	"2007"	61	8799	6.9	5.3	8.9
+	"Honolulu County, HI"	"15003"	"2008"	"2008"	57	8686	6.6	5.0	8.5
+	"Honolulu County, HI"	"15003"	"2009"	"2009"	54	8478	6.4	4.8	8.3
+	"Honolulu County, HI"	"15003"	"2010"	"2010"	66	8148	8.1	6.3	10.3
+	"Honolulu County, HI"	"15003"	"2011"	"2011"	54	8651	6.2	4.7	8.1
+	"Honolulu County, HI"	"15003"	"2012"	"2012"	51	8508	6.0	4.5	7.9
+	"Honolulu County, HI"	"15003"	"2013"	"2013"	59	8708	6.8	5.2	8.7
+	"Honolulu County, HI"	"15003"	"2014"	"2014"	48	8394	5.7	4.2	7.6
+	"Honolulu County, HI"	"15003"	"2015"	"2015"	46	8591	5.4	3.9	7.1
+"Total"	"Honolulu County, HI"	"15003"			1019	142409	7.2	6.7	7.6
+"Total"	"Kauai County, HI"	"15007"			46	8663	5.3	3.9	7.1
+	"Maui County, HI"	"15009"	"2000"	"2000"	12	1056	11.4 (Unreliable)	5.9	19.8
+	"Maui County, HI"	"15009"	"2002"	"2002"	11	1148	9.6 (Unreliable)	4.8	17.1
+	"Maui County, HI"	"15009"	"2015"	"2015"	12	1181	10.2 (Unreliable)	5.3	17.7
+"Total"	"Maui County, HI"	"15009"			113	20516	5.5	4.5	6.5
+"Total"	"Ada County, ID"	"16001"			18	2856	6.3 (Unreliable)	3.7	10.0
+	"Cook County, IL"	"17031"	"1999"	"1999"	25	3981	6.3	4.1	9.3
+	"Cook County, IL"	"17031"	"2000"	"2000"	19	3998	4.8 (Unreliable)	2.9	7.4
+	"Cook County, IL"	"17031"	"2001"	"2001"	19	4575	4.2 (Unreliable)	2.5	6.5
+	"Cook County, IL"	"17031"	"2002"	"2002"	24	4315	5.6	3.6	8.3
+	"Cook County, IL"	"17031"	"2003"	"2003"	13	4602	2.8 (Unreliable)	1.5	4.8
+	"Cook County, IL"	"17031"	"2004"	"2004"	10	4524	2.2 (Unreliable)	1.1	4.1
+	"Cook County, IL"	"17031"	"2005"	"2005"	16	4590	3.5 (Unreliable)	2.0	5.7
+	"Cook County, IL"	"17031"	"2006"	"2006"	19	4461	4.3 (Unreliable)	2.6	6.7
+	"Cook County, IL"	"17031"	"2007"	"2007"	20	4617	4.3	2.6	6.7
+	"Cook County, IL"	"17031"	"2008"	"2008"	17	4831	3.5 (Unreliable)	2.0	5.6
+	"Cook County, IL"	"17031"	"2009"	"2009"	11	4916	2.2 (Unreliable)	1.1	4.0
+	"Cook County, IL"	"17031"	"2010"	"2010"	20	4849	4.1	2.5	6.4
+	"Cook County, IL"	"17031"	"2011"	"2011"	23	4861	4.7	3.0	7.1
+	"Cook County, IL"	"17031"	"2012"	"2012"	25	4921	5.1	3.3	7.5
+	"Cook County, IL"	"17031"	"2013"	"2013"	20	5251	3.8	2.3	5.9
+	"Cook County, IL"	"17031"	"2014"	"2014"	25	4960	5.0	3.3	7.4
+	"Cook County, IL"	"17031"	"2015"	"2015"	19	4989	3.8 (Unreliable)	2.3	5.9
+"Total"	"Cook County, IL"	"17031"			325	79241	4.1	3.7	4.5
+	"DuPage County, IL"	"17043"	"2000"	"2000"	11	1225	9.0 (Unreliable)	4.5	16.1
+	"DuPage County, IL"	"17043"	"2001"	"2001"	13	1340	9.7 (Unreliable)	5.2	16.6
+	"DuPage County, IL"	"17043"	"2008"	"2008"	13	1484	8.8 (Unreliable)	4.7	15.0
+	"DuPage County, IL"	"17043"	"2010"	"2010"	10	1397	7.2 (Unreliable)	3.4	13.2
+"Total"	"DuPage County, IL"	"17043"			123	23489	5.2	4.3	6.2
+"Total"	"Kane County, IL"	"17089"			21	4666	4.5	2.8	6.9
+"Total"	"Lake County, IL"	"17097"			33	10515	3.1	2.2	4.4
+"Total"	"McLean County, IL"	"17113"			16	3086	5.2 (Unreliable)	3.0	8.4
+"Total"	"Peoria County, IL"	"17143"			12	1881	6.4 (Unreliable)	3.3	11.1
+"Total"	"Will County, IL"	"17197"			26	6544	4.0	2.6	5.8
+"Total"	"Allen County, IN"	"18003"			12	3008	4.0 (Unreliable)	2.1	7.0
+"Total"	"Hamilton County, IN"	"18057"			14	2986	4.7 (Unreliable)	2.6	7.9
+"Total"	"Marion County, IN"	"18097"			36	6919	5.2	3.6	7.2
+"Total"	"Tippecanoe County, IN"	"18157"			10	2398	4.2 (Unreliable)	2.0	7.7
+"Total"	"Polk County, IA"	"19153"			23	4758	4.8	3.1	7.3
+"Total"	"Johnson County, KS"	"20091"			20	6471	3.1	1.9	4.8
+"Total"	"Sedgwick County, KS"	"20173"			38	5457	7.0	4.9	9.6
+"Total"	"Wyandotte County, KS"	"20209"			11	1684	6.5 (Unreliable)	3.3	11.7
+"Total"	"Fayette County, KY"	"21067"			12	2482	4.8 (Unreliable)	2.5	8.4
+"Total"	"Jefferson County, KY"	"21111"			17	5265	3.2 (Unreliable)	1.9	5.2
+"Total"	"East Baton Rouge Parish, LA"	"22033"			18	3204	5.6 (Unreliable)	3.3	8.9
+"Total"	"Jefferson Parish, LA"	"22051"			29	4496	6.5	4.3	9.3
+"Total"	"Orleans Parish, LA"	"22071"			17	2110	8.1 (Unreliable)	4.7	12.9
+"Total"	"Anne Arundel County, MD"	"24003"			31	4750	6.5	4.4	9.3
+"Total"	"Baltimore County, MD"	"24005"			43	10604	4.1	2.9	5.5
+"Total"	"Howard County, MD"	"24027"			34	9618	3.5	2.4	4.9
+	"Montgomery County, MD"	"24031"	"1999"	"1999"	10	1417	7.1 (Unreliable)	3.4	13.0
+	"Montgomery County, MD"	"24031"	"2005"	"2005"	10	1892	5.3 (Unreliable)	2.5	9.7
+	"Montgomery County, MD"	"24031"	"2007"	"2007"	10	1867	5.4 (Unreliable)	2.6	9.9
+	"Montgomery County, MD"	"24031"	"2011"	"2011"	11	1948	5.6 (Unreliable)	2.8	10.1
+	"Montgomery County, MD"	"24031"	"2014"	"2014"	10	1849	5.4 (Unreliable)	2.6	9.9
+"Total"	"Montgomery County, MD"	"24031"			124	30841	4.0	3.3	4.7
+"Total"	"Prince George's County, MD"	"24033"			45	9131	4.9	3.6	6.6
+"Total"	"Baltimore city, MD"	"24510"			23	3470	6.6	4.2	9.9
+"Total"	"Essex County, MA"	"25009"			30	6626	4.5	3.1	6.5
+	"Middlesex County, MA"	"25017"	"2010"	"2010"	12	2296	5.2 (Unreliable)	2.7	9.1
+	"Middlesex County, MA"	"25017"	"2011"	"2011"	10	2338	4.3 (Unreliable)	2.1	7.9
+	"Middlesex County, MA"	"25017"	"2013"	"2013"	11	2543	4.3 (Unreliable)	2.2	7.7
+"Total"	"Middlesex County, MA"	"25017"			124	37181	3.3	2.7	3.9
+"Total"	"Norfolk County, MA"	"25021"			43	14474	3.0	2.1	4.0
+"Total"	"Suffolk County, MA"	"25025"			33	10852	3.0	2.1	4.3
+"Total"	"Worcester County, MA"	"25027"			27	8600	3.1	2.1	4.6
+"Total"	"Ingham County, MI"	"26065"			20	3464	5.8	3.5	8.9
+"Total"	"Kent County, MI"	"26081"			18	4289	4.2 (Unreliable)	2.5	6.6
+"Total"	"Macomb County, MI"	"26099"			34	7509	4.5	3.1	6.3
+"Total"	"Oakland County, MI"	"26125"			68	18624	3.7	2.8	4.6
+"Total"	"Ottawa County, MI"	"26139"			11	1981	5.6 (Unreliable)	2.8	9.9
+"Total"	"Washtenaw County, MI"	"26161"			15	6551	2.3 (Unreliable)	1.3	3.8
+"Total"	"Wayne County, MI"	"26163"			64	15650	4.1	3.1	5.2
+"Total"	"Anoka County, MN"	"27003"			21	3759	5.6	3.5	8.5
+"Total"	"Dakota County, MN"	"27037"			19	5425	3.5 (Unreliable)	2.1	5.5
+	"Hennepin County, MN"	"27053"	"2008"	"2008"	17	1543	11.0 (Unreliable)	6.4	17.6
+	"Hennepin County, MN"	"27053"	"2009"	"2009"	11	1478	7.4 (Unreliable)	3.7	13.3
+"Total"	"Hennepin County, MN"	"27053"			123	23266	5.3	4.4	6.2
+"Total"	"Olmsted County, MN"	"27109"			16	2546	6.3 (Unreliable)	3.6	10.2
+	"Ramsey County, MN"	"27123"	"1999"	"1999"	12	1086	11.0 (Unreliable)	5.7	19.3
+	"Ramsey County, MN"	"27123"	"2006"	"2006"	10	1494	6.7 (Unreliable)	3.2	12.3
+	"Ramsey County, MN"	"27123"	"2007"	"2007"	13	1714	7.6 (Unreliable)	4.0	13.0
+	"Ramsey County, MN"	"27123"	"2013"	"2013"	11	1709	6.4 (Unreliable)	3.2	11.5
+	"Ramsey County, MN"	"27123"	"2014"	"2014"	11	1399	7.9 (Unreliable)	3.9	14.1
+	"Ramsey County, MN"	"27123"	"2015"	"2015"	19	1229	15.5 (Unreliable)	9.3	24.1
+"Total"	"Ramsey County, MN"	"27123"			140	24225	5.8	4.8	6.7
+"Total"	"Scott County, MN"	"27139"			10	2042	4.9 (Unreliable)	2.3	9.0
+"Total"	"Washington County, MN"	"27163"			18	3426	5.3 (Unreliable)	3.1	8.3
+"Total"	"Clay County, MO"	"29047"			11	1553	7.1 (Unreliable)	3.5	12.7
+"Total"	"Jackson County, MO"	"29095"			18	3663	4.9 (Unreliable)	2.9	7.8
+"Total"	"St. Louis County, MO"	"29189"			30	9479	3.2	2.1	4.5
+"Total"	"Douglas County, NE"	"31055"			12	4700	2.6 (Unreliable)	1.3	4.5
+	"Clark County, NV"	"32003"	"2000"	"2000"	10	1161	8.6 (Unreliable)	4.1	15.8
+	"Clark County, NV"	"32003"	"2004"	"2004"	12	1856	6.5 (Unreliable)	3.3	11.3
+	"Clark County, NV"	"32003"	"2006"	"2006"	10	2125	4.7 (Unreliable)	2.3	8.7
+	"Clark County, NV"	"32003"	"2007"	"2007"	11	2217	5.0 (Unreliable)	2.5	8.9
+	"Clark County, NV"	"32003"	"2009"	"2009"	12	2389	5.0 (Unreliable)	2.6	8.8
+	"Clark County, NV"	"32003"	"2012"	"2012"	13	2123	6.1 (Unreliable)	3.3	10.5
+	"Clark County, NV"	"32003"	"2013"	"2013"	10	2177	4.6 (Unreliable)	2.2	8.4
+	"Clark County, NV"	"32003"	"2015"	"2015"	13	2790	4.7 (Unreliable)	2.5	8.0
+"Total"	"Clark County, NV"	"32003"			142	34206	4.2	3.5	4.8
+"Total"	"Washoe County, NV"	"32031"			28	5757	4.9	3.2	7.0
+"Total"	"Atlantic County, NJ"	"34001"			19	4497	4.2 (Unreliable)	2.5	6.6
+	"Bergen County, NJ"	"34003"	"2009"	"2009"	11	1826	6.0 (Unreliable)	3.0	10.8
+"Total"	"Bergen County, NJ"	"34003"			91	28483	3.2	2.6	3.9
+"Total"	"Burlington County, NJ"	"34005"			14	4779	2.9 (Unreliable)	1.6	4.9
+"Total"	"Camden County, NJ"	"34007"			24	5681	4.2	2.7	6.3
+"Total"	"Essex County, NJ"	"34013"			22	8034	2.7	1.7	4.1
+"Total"	"Hudson County, NJ"	"34017"			53	24251	2.2	1.6	2.9
+"Total"	"Mercer County, NJ"	"34021"			26	7092	3.7	2.4	5.4
+	"Middlesex County, NJ"	"34023"	"2010"	"2010"	13	2956	4.4 (Unreliable)	2.3	7.5
+	"Middlesex County, NJ"	"34023"	"2011"	"2011"	10	2961	3.4 (Unreliable)	1.6	6.2
+"Total"	"Middlesex County, NJ"	"34023"			106	49503	2.1	1.7	2.5
+"Total"	"Monmouth County, NJ"	"34025"			13	5953	2.2 (Unreliable)	1.2	3.7
+"Total"	"Morris County, NJ"	"34027"			30	10675	2.8	1.9	4.0
+"Total"	"Passaic County, NJ"	"34031"			14	6322	2.2 (Unreliable)	1.2	3.7
+"Total"	"Somerset County, NJ"	"34035"			26	11226	2.3	1.5	3.4
+"Total"	"Union County, NJ"	"34039"			19	6257	3.0 (Unreliable)	1.8	4.7
+"Total"	"Bernalillo County, NM"	"35001"			15	4011	3.7 (Unreliable)	2.1	6.2
+"Total"	"Albany County, NY"	"36001"			18	3889	4.6 (Unreliable)	2.7	7.3
+"Total"	"Bronx County, NY"	"36005"			53	14458	3.7	2.7	4.8
+"Total"	"Erie County, NY"	"36029"			32	5720	5.6	3.8	7.9
+	"Kings County, NY"	"36047"	"1999"	"1999"	11	2973	3.7 (Unreliable)	1.8	6.6
+	"Kings County, NY"	"36047"	"2000"	"2000"	13	3069	4.2 (Unreliable)	2.3	7.2
+	"Kings County, NY"	"36047"	"2001"	"2001"	12	3684	3.3 (Unreliable)	1.7	5.7
+	"Kings County, NY"	"36047"	"2002"	"2002"	14	3649	3.8 (Unreliable)	2.1	6.4
+	"Kings County, NY"	"36047"	"2003"	"2003"	13	3762	3.5 (Unreliable)	1.8	5.9
+	"Kings County, NY"	"36047"	"2004"	"2004"	19	3704	5.1 (Unreliable)	3.1	8.0
+	"Kings County, NY"	"36047"	"2006"	"2006"	11	3964	2.8 (Unreliable)	1.4	5.0
+	"Kings County, NY"	"36047"	"2007"	"2007"	16	4266	3.8 (Unreliable)	2.1	6.1
+	"Kings County, NY"	"36047"	"2009"	"2009"	16	4004	4.0 (Unreliable)	2.3	6.5
+	"Kings County, NY"	"36047"	"2010"	"2010"	21	3544	5.9	3.7	9.1
+	"Kings County, NY"	"36047"	"2011"	"2011"	20	5163	3.9	2.4	6.0
+	"Kings County, NY"	"36047"	"2012"	"2012"	11	5367	2.0 (Unreliable)	1.0	3.7
+	"Kings County, NY"	"36047"	"2013"	"2013"	13	5855	2.2 (Unreliable)	1.2	3.8
+	"Kings County, NY"	"36047"	"2014"	"2014"	14	4779	2.9 (Unreliable)	1.6	4.9
+	"Kings County, NY"	"36047"	"2015"	"2015"	13	4502	2.9 (Unreliable)	1.5	4.9
+"Total"	"Kings County, NY"	"36047"			234	70612	3.3	2.9	3.7
+"Total"	"Monroe County, NY"	"36055"			20	5880	3.4	2.1	5.3
+"Total"	"Nassau County, NY"	"36059"			52	18649	2.8	2.1	3.7
+"Total"	"New York County, NY"	"36061"			74	36682	2.0	1.6	2.5
+"Total"	"Oneida County, NY"	"36065"			14	1927	7.3 (Unreliable)	4.0	12.2
+"Total"	"Onondaga County, NY"	"36067"			15	3685	4.1 (Unreliable)	2.3	6.7
+"Total"	"Orange County, NY"	"36071"			12	1928	6.2 (Unreliable)	3.2	10.9
+	"Queens County, NY"	"36081"	"1999"	"1999"	13	5888	2.2 (Unreliable)	1.2	3.8
+	"Queens County, NY"	"36081"	"2000"	"2000"	27	6027	4.5	3.0	6.5
+	"Queens County, NY"	"36081"	"2001"	"2001"	16	7218	2.2 (Unreliable)	1.3	3.6
+	"Queens County, NY"	"36081"	"2002"	"2002"	16	7167	2.2 (Unreliable)	1.3	3.6
+	"Queens County, NY"	"36081"	"2003"	"2003"	25	7394	3.4	2.2	5.0
+	"Queens County, NY"	"36081"	"2004"	"2004"	27	7383	3.7	2.4	5.3
+	"Queens County, NY"	"36081"	"2005"	"2005"	28	7064	4.0	2.6	5.7
+	"Queens County, NY"	"36081"	"2006"	"2006"	22	6980	3.2	2.0	4.8
+	"Queens County, NY"	"36081"	"2007"	"2007"	20	7491	2.7	1.6	4.1
+	"Queens County, NY"	"36081"	"2008"	"2008"	23	7986	2.9	1.8	4.3
+	"Queens County, NY"	"36081"	"2009"	"2009"	17	6903	2.5 (Unreliable)	1.4	3.9
+	"Queens County, NY"	"36081"	"2010"	"2010"	25	6407	3.9	2.5	5.8
+	"Queens County, NY"	"36081"	"2011"	"2011"	26	7254	3.6	2.3	5.3
+	"Queens County, NY"	"36081"	"2012"	"2012"	34	7671	4.4	3.1	6.2
+	"Queens County, NY"	"36081"	"2013"	"2013"	24	8307	2.9	1.9	4.3
+	"Queens County, NY"	"36081"	"2014"	"2014"	25	7244	3.5	2.2	5.1
+	"Queens County, NY"	"36081"	"2015"	"2015"	20	6804	2.9	1.8	4.5
+"Total"	"Queens County, NY"	"36081"			388	121188	3.2	2.9	3.5
+"Total"	"Richmond County, NY"	"36085"			21	6578	3.2	2.0	4.9
+"Total"	"Suffolk County, NY"	"36103"			33	11107	3.0	2.0	4.2
+"Total"	"Westchester County, NY"	"36119"			28	12149	2.3	1.5	3.3
+"Total"	"Catawba County, NC"	"37035"			16	2084	7.7 (Unreliable)	4.4	12.5
+"Total"	"Cumberland County, NC"	"37051"			13	2650	4.9 (Unreliable)	2.6	8.4
+"Total"	"Durham County, NC"	"37063"			12	3865	3.1 (Unreliable)	1.6	5.4
+"Total"	"Forsyth County, NC"	"37067"			11	1812	6.1 (Unreliable)	3.0	10.9
+"Total"	"Guilford County, NC"	"37081"			23	5344	4.3	2.7	6.5
+"Total"	"Mecklenburg County, NC"	"37119"			62	13031	4.8	3.6	6.1
+"Total"	"Wake County, NC"	"37183"			39	12664	3.1	2.2	4.2
+"Total"	"Cuyahoga County, OH"	"39035"			19	8920	2.1 (Unreliable)	1.3	3.3
+	"Franklin County, OH"	"39049"	"2015"	"2015"	10	981	10.2 (Unreliable)	4.9	18.7
+"Total"	"Franklin County, OH"	"39049"			68	13747	4.9	3.8	6.3
+"Total"	"Hamilton County, OH"	"39061"			17	4998	3.4 (Unreliable)	2.0	5.4
+"Total"	"Summit County, OH"	"39153"			15	3410	4.4 (Unreliable)	2.5	7.3
+"Total"	"Garfield County, OK"	"40047"			11	840	13.1 (Unreliable)	6.5	23.4
+"Total"	"Oklahoma County, OK"	"40109"			31	6278	4.9	3.4	7.0
+"Total"	"Tulsa County, OK"	"40143"			28	4161	6.7	4.5	9.7
+"Total"	"Clackamas County, OR"	"41005"			14	3066	4.6 (Unreliable)	2.5	7.7
+"Total"	"Marion County, OR"	"41047"			12	2455	4.9 (Unreliable)	2.5	8.5
+"Total"	"Multnomah County, OR"	"41051"			49	11865	4.1	3.1	5.5
+"Total"	"Washington County, OR"	"41067"			54	13569	4.0	3.0	5.2
+"Total"	"Allegheny County, PA"	"42003"			28	9003	3.1	2.1	4.5
+"Total"	"Bucks County, PA"	"42017"			20	5487	3.6	2.2	5.6
+"Total"	"Chester County, PA"	"42029"			16	5455	2.9 (Unreliable)	1.7	4.8
+"Total"	"Delaware County, PA"	"42045"			34	6872	4.9	3.4	6.9
+"Total"	"Lancaster County, PA"	"42071"			10	2723	3.7 (Unreliable)	1.8	6.8
+"Total"	"Lehigh County, PA"	"42077"			10	3072	3.3 (Unreliable)	1.6	6.0
+"Total"	"Montgomery County, PA"	"42091"			31	12933	2.4	1.6	3.4
+	"Philadelphia County, PA"	"42101"	"2007"	"2007"	12	1714	7.0 (Unreliable)	3.6	12.2
+	"Philadelphia County, PA"	"42101"	"2012"	"2012"	11	1540	7.1 (Unreliable)	3.6	12.8
+"Total"	"Philadelphia County, PA"	"42101"			112	25439	4.4	3.6	5.2
+"Total"	"Providence County, RI"	"44007"			44	6723	6.5	4.8	8.8
+"Total"	"Charleston County, SC"	"45019"			11	1326	8.3 (Unreliable)	4.1	14.8
+"Total"	"Greenville County, SC"	"45045"			12	2557	4.7 (Unreliable)	2.4	8.2
+"Total"	"Davidson County, TN"	"47037"			31	6667	4.6	3.2	6.6
+"Total"	"Shelby County, TN"	"47157"			44	7077	6.2	4.5	8.3
+"Total"	"Bell County, TX"	"48027"			16	3702	4.3 (Unreliable)	2.5	7.0
+"Total"	"Bexar County, TX"	"48029"			30	11228	2.7	1.8	3.8
+"Total"	"Brazoria County, TX"	"48039"			11	4543	2.4 (Unreliable)	1.2	4.3
+"Total"	"Collin County, TX"	"48085"			66	22456	2.9	2.3	3.7
+	"Dallas County, TX"	"48113"	"2003"	"2003"	12	2067	5.8 (Unreliable)	3.0	10.1
+	"Dallas County, TX"	"48113"	"2013"	"2013"	10	2547	3.9 (Unreliable)	1.9	7.2
+"Total"	"Dallas County, TX"	"48113"			110	36299	3.0	2.5	3.6
+"Total"	"Denton County, TX"	"48121"			29	10840	2.7	1.8	3.8
+"Total"	"Fort Bend County, TX"	"48157"			46	19528	2.4	1.7	3.1
+	"Harris County, TX"	"48201"	"1999"	"1999"	10	2901	3.4 (Unreliable)	1.7	6.3
+	"Harris County, TX"	"48201"	"2001"	"2001"	10	3442	2.9 (Unreliable)	1.4	5.3
+	"Harris County, TX"	"48201"	"2003"	"2003"	19	3597	5.3 (Unreliable)	3.2	8.2
+	"Harris County, TX"	"48201"	"2004"	"2004"	13	3626	3.6 (Unreliable)	1.9	6.1
+	"Harris County, TX"	"48201"	"2005"	"2005"	12	3550	3.4 (Unreliable)	1.7	5.9
+	"Harris County, TX"	"48201"	"2006"	"2006"	12	3676	3.3 (Unreliable)	1.7	5.7
+	"Harris County, TX"	"48201"	"2007"	"2007"	11	3858	2.9 (Unreliable)	1.4	5.1
+	"Harris County, TX"	"48201"	"2008"	"2008"	11	4045	2.7 (Unreliable)	1.4	4.9
+	"Harris County, TX"	"48201"	"2009"	"2009"	21	4022	5.2	3.2	8.0
+	"Harris County, TX"	"48201"	"2010"	"2010"	11	3964	2.8 (Unreliable)	1.4	5.0
+	"Harris County, TX"	"48201"	"2011"	"2011"	17	3769	4.5 (Unreliable)	2.6	7.2
+	"Harris County, TX"	"48201"	"2012"	"2012"	10	4170	2.4 (Unreliable)	1.1	4.4
+	"Harris County, TX"	"48201"	"2013"	"2013"	19	4485	4.2 (Unreliable)	2.6	6.6
+	"Harris County, TX"	"48201"	"2014"	"2014"	16	4172	3.8 (Unreliable)	2.2	6.2
+	"Harris County, TX"	"48201"	"2015"	"2015"	20	4252	4.7	2.9	7.3
+"Total"	"Harris County, TX"	"48201"			227	63787	3.6	3.1	4.0
+"Total"	"Potter County, TX"	"48375"			15	1609	9.3 (Unreliable)	5.2	15.4
+	"Tarrant County, TX"	"48439"	"2009"	"2009"	11	1305	8.4 (Unreliable)	4.2	15.1
+"Total"	"Tarrant County, TX"	"48439"			109	21704	5.0	4.1	6.0
+"Total"	"Travis County, TX"	"48453"			43	15086	2.9	2.1	3.8
+"Total"	"Williamson County, TX"	"48491"			22	5825	3.8	2.4	5.7
+	"Salt Lake County, UT"	"49035"	"2008"	"2008"	10	951	10.5 (Unreliable)	5.0	19.3
+	"Salt Lake County, UT"	"49035"	"2010"	"2010"	11	1004	11.0 (Unreliable)	5.5	19.6
+	"Salt Lake County, UT"	"49035"	"2013"	"2013"	11	1097	10.0 (Unreliable)	5.0	17.9
+"Total"	"Salt Lake County, UT"	"49035"			114	15722	7.3	5.9	8.6
+"Total"	"Utah County, UT"	"49049"			23	4295	5.4	3.4	8.0
+"Total"	"Arlington County, VA"	"51013"			15	5607	2.7 (Unreliable)	1.5	4.4
+"Total"	"Chesterfield County, VA"	"51041"			12	1989	6.0 (Unreliable)	3.1	10.5
+	"Fairfax County, VA"	"51059"	"2003"	"2003"	16	2779	5.8 (Unreliable)	3.3	9.3
+	"Fairfax County, VA"	"51059"	"2006"	"2006"	13	2751	4.7 (Unreliable)	2.5	8.1
+	"Fairfax County, VA"	"51059"	"2007"	"2007"	15	2879	5.2 (Unreliable)	2.9	8.6
+	"Fairfax County, VA"	"51059"	"2010"	"2010"	10	2918	3.4 (Unreliable)	1.6	6.3
+	"Fairfax County, VA"	"51059"	"2011"	"2011"	18	2810	6.4 (Unreliable)	3.8	10.1
+	"Fairfax County, VA"	"51059"	"2012"	"2012"	17	2769	6.1 (Unreliable)	3.6	9.8
+	"Fairfax County, VA"	"51059"	"2015"	"2015"	10	2801	3.6 (Unreliable)	1.7	6.6
+"Total"	"Fairfax County, VA"	"51059"			178	46453	3.8	3.3	4.4
+"Total"	"Henrico County, VA"	"51087"			25	6428	3.9	2.5	5.7
+"Total"	"Loudoun County, VA"	"51107"			38	13127	2.9	2.0	4.0
+"Total"	"Prince William County, VA"	"51153"			28	7889	3.5	2.4	5.1
+"Total"	"Alexandria city, VA"	"51510"			16	2993	5.3 (Unreliable)	3.1	8.7
+"Total"	"Fairfax city, VA"	"51600"			10	915	10.9 (Unreliable)	5.2	20.1
+"Total"	"Virginia Beach city, VA"	"51810"			26	6026	4.3	2.8	6.3
+"Total"	"Clark County, WA"	"53011"			24	5113	4.7	3.0	7.0
+	"King County, WA"	"53033"	"1999"	"1999"	12	2799	4.3 (Unreliable)	2.2	7.5
+	"King County, WA"	"53033"	"2000"	"2000"	16	2857	5.6 (Unreliable)	3.2	9.1
+	"King County, WA"	"53033"	"2001"	"2001"	10	3395	2.9 (Unreliable)	1.4	5.4
+	"King County, WA"	"53033"	"2002"	"2002"	12	3371	3.6 (Unreliable)	1.8	6.2
+	"King County, WA"	"53033"	"2003"	"2003"	14	3703	3.8 (Unreliable)	2.1	6.3
+	"King County, WA"	"53033"	"2004"	"2004"	18	4036	4.5 (Unreliable)	2.6	7.0
+	"King County, WA"	"53033"	"2005"	"2005"	20	4076	4.9	3.0	7.6
+	"King County, WA"	"53033"	"2006"	"2006"	18	4138	4.3 (Unreliable)	2.6	6.9
+	"King County, WA"	"53033"	"2007"	"2007"	17	4302	4.0 (Unreliable)	2.3	6.3
+	"King County, WA"	"53033"	"2008"	"2008"	22	4460	4.9	3.1	7.5
+	"King County, WA"	"53033"	"2009"	"2009"	11	4610	2.4 (Unreliable)	1.2	4.3
+	"King County, WA"	"53033"	"2010"	"2010"	16	4502	3.6 (Unreliable)	2.0	5.8
+	"King County, WA"	"53033"	"2011"	"2011"	15	4485	3.3 (Unreliable)	1.9	5.5
+	"King County, WA"	"53033"	"2012"	"2012"	18	4674	3.9 (Unreliable)	2.3	6.1
+	"King County, WA"	"53033"	"2013"	"2013"	16	4881	3.3 (Unreliable)	1.9	5.3
+	"King County, WA"	"53033"	"2014"	"2014"	15	4802	3.1 (Unreliable)	1.7	5.2
+	"King County, WA"	"53033"	"2015"	"2015"	17	4807	3.5 (Unreliable)	2.1	5.7
+"Total"	"King County, WA"	"53033"			267	69898	3.8	3.4	4.3
+"Total"	"Kitsap County, WA"	"53035"			14	3220	4.3 (Unreliable)	2.4	7.3
+"Total"	"Pierce County, WA"	"53053"			94	15075	6.2	5.0	7.6
+"Total"	"Snohomish County, WA"	"53061"			53	15751	3.4	2.5	4.4
+"Total"	"Spokane County, WA"	"53063"			15	3013	5.0 (Unreliable)	2.8	8.2
+"Total"	"Thurston County, WA"	"53067"			21	3252	6.5	4.0	9.9
+"Total"	"Brown County, WI"	"55009"			15	2640	5.7 (Unreliable)	3.2	9.4
+"Total"	"Dane County, WI"	"55025"			28	6503	4.3	2.9	6.2
+"Total"	"La Crosse County, WI"	"55063"			11	1812	6.1 (Unreliable)	3.0	10.9
+"Total"	"Marathon County, WI"	"55073"			18	3174	5.7 (Unreliable)	3.4	9.0
+"Total"	"Milwaukee County, WI"	"55079"			65	11884	5.5	4.2	7.0
+"Total"	"Outagamie County, WI"	"55087"			13	1946	6.7 (Unreliable)	3.6	11.4
+"Total"	"Sheboygan County, WI"	"55117"			15	2262	6.6 (Unreliable)	3.7	10.9
+"Total"	"Waukesha County, WI"	"55133"			14	2903	4.8 (Unreliable)	2.6	8.1
+"Total"	"Winnebago County, WI"	"55139"			14	1507	9.3 (Unreliable)	5.1	15.6
+"Total"					14667	3656466	4.0	3.9	4.1
+"---"
+"Dataset: Compressed Mortality, 1999-2015"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Age Group: < 1 year"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Race: Asian or Pacific Islander"
+"States: All"
+"Year: All, 1999 to 2015"
+"Group By: County, Year"
+"Show Totals: True"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Oct 9, 2017 3:46:34 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2015 on CDC WONDER Online Database, released December 2016. Data are from the Compressed Mortality File 1999-2015 Series 20"
+"No. 2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 9, 2017 3:46:34 AM"
+"---"
+Messages:
+"1. Rows with zero Deaths are hidden, but the Population values in those rows are included in the totals. Use Quick Options above"
+"to show zero rows."
+"2. Rows with suppressed Deaths are hidden, but the Deaths and Population values in those rows are included in the totals. Use"
+"Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Data discontinuity due to county line boundary changes in requested years. See Caveats below for more information."
+"3. Deaths for Allen Parish, Louisiana are under reported in years 2006 through 2008. See Caveats below for more information."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than"
+"10. Figures representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"7. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals."
+"8. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"9. Denali Borough, Alaska (FIPS code 02068) data are only available for 2003 and later; for computational purposes, counts and"
+"population estimates for 1999-2002 are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not"
+"include any data for years prior to 2003, only data for 2003 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Denali Borough."
+"10. Hoonah-Angoon Census Area, Alaska (FIPS code 02105) data are only available for 2014 and later; for computational purposes,"
+"counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for this"
+"entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Hoonah-Angoon Census Area."
+"11. Petersburg Borough/Census Area, Alaska (FIPS code 02195) data are only available for 2014 and later; for computational"
+"purposes, counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for"
+"this entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Petersburg Borough/Census Area."
+"12. Prince of Wales-Hyder Census Area, Alaska (FIPS code 02198) data are only available for 2014 and later; for computational"
+"purposes, counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for"
+"this entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Prince of Wales-Hyder Census Area."
+"13. Prince of Wales-Outer Ketchikan Census Area, Alaska (FIPS code 02201) data are available only for 1999-2013. For 2014 and"
+"beyond, death counts and population estimates for Prince of Wales-Outer Ketchikan Census Area Census Area are reported as Prince"
+"of Wales-Hyder Census Area (FIPS code 02198). Death counts and population estimates for this entity from multi-year requests,"
+"only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Prince of Wales-Outer Ketchikan Census Area."
+"14. Skagway Municipality, Alaska (FIPS code 02230) data are only available for 2014 and later; for computational purposes,"
+"counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for this"
+"entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Skagway Municipality."
+"15. Skagway-Hoonah-Angoon Census Area, Alaska (FIPS code 02232) data are available only for 1999-2013. For 2014 and beyond,"
+"death counts and population estimates for Skagway-Hoonah-Angoon Census Area are reported as Hoonah-Angoon Census Area(FIPS code"
+"02105) and Skagway Municipality, (FIPS code 02230). Death counts and population estimates for this entity from multi-year"
+"requests, only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Skagway-Hoonah-Angoon Census Area."
+"16. Wrangell City and Borough, Alaska (FIPS code 02275) data are only available for 2014 and later; for computational purposes,"
+"counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for this"
+"entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Wrangell City and Borough."
+"17. Wrangell-Petersburg Census Area, Alaska (FIPS code 02280) data are available only for 1999-2013. For 2014 and beyond, death"
+"counts and population estimates for Wrangell-Petersburg Census Area are reported as Petersburg Borough/Census Area (FIPS code"
+"02195) and Wrangell City and Borough, (FIPS code 02275). Death counts and population estimates for this entity from multi-year"
+"requests, only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Wrangell-Petersburg Census Area."
+"18. Yukon-Koyukuk Census Area (FIPS code 02290) has a discontinuity in the mortality and population data between the years 2002"
+"and 2003. This discontinuity occurs because part of Yukon-Koyukuk Census Area became Denali Borough, Alaska (FIPS code 02068)"
+"and beginning in 2003, deaths and population counts for this former part of Yukon-Koyukuk are reported for Denali Borough and"
+"are no longer included with data for Yukon-Koyukuk. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Yukon-Koyukuk,"
+"Alaska."
+"19. Adams County, Colorado (FIPS code 08001) has a discontinuity in the mortality and population data between the years 2002 and"
+"2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new county,"
+"Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported with"
+"Broomfield county and are no longer included with data for Adams County."
+"20. Boulder County, Colorado (FIPS code 08013) has a discontinuity in the mortality and population data between the years 2002"
+"and 2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new"
+"county, Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported"
+"with Broomfield county and are no longer included with data for Boulder County."
+"21. Broomfield, Colorado (FIPS code 08014) data are only available for 2003 and later; for computational purposes, counts and"
+"population estimates for 1999-2002 are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not"
+"include any data for years prior to 2003, only data for 2003 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Broomfield."
+"22. Jefferson County, Colorado (FIPS code 08059) has a discontinuity in the mortality and population data between the years 2002"
+"and 2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new"
+"county, Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported"
+"with Broomfield county and are no longer included with data for Jefferson County."
+"23. Weld County, Colorado (FIPS code 08123) has a discontinuity in the mortality and population data between the years 2002 and"
+"2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new county,"
+"Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported with"
+"Broomfield county and are no longer included with data for Weld County."
+"24. Allen Parish, Louisiana (FIPS code 22003) data in 2006 through 2008 are under reported due to problems with registering the"
+"deaths with the Louisiana Vital Statistics Office."
+"25. Carson City, Nevada (FIPS code 32510) data are shown separately from the adjacent counties for."
+"26. Baltimore city, Maryland (FIPS code 24510) and Baltimore County, Maryland (FIPS code 24005) data are reported separately."
+"27. St. Louis city, Missouri (FIPS code 29510) and St. Louis County, Missouri (FIPS code 29189) data are reported separately."
+"28. Alleghany, Virginia (FIPS code 51005) has a discontinuity in the mortality and population data between the years 2000 and"
+"2001. This discontinuity occurs because for 2001 and beyond, death counts and population estimates for Clifton Forge city,"
+"Virginia (FIPS code 51560) have been combined with those for Alleghany county. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Alleghany, Virginia."
+"29. Bedford city, Virginia (FIPS code 51515) data are available only for 1999-2010. For 2011 and beyond, death counts and"
+"population estimates for Bedford city have been combined with Bedford County (FIPS code 51019). Death counts and population"
+"estimates for this entity from multi-year requests, only reflect data from 1999 through 2010; for 2011 and beyond they have been"
+"set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Bedford-Virginia."
+"30. Bedford County (FIPS code 51019) has a discontinuity in the mortality and population data between the years 2010 and 2011."
+"This discontinuity occurs because for 2011 and beyond, death counts and population estimates for Bedford city, Virginia (FIPS"
+"code 51515) have been combined with those for Bedford County. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Bedford-Virginia."
+"31. Clifton Forge city, Virginia (FIPS code 51560) data are available only for 1999-2000. For 2001 and beyond, death counts and"
+"population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code 51005)."
+"Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 through 2000; for"
+"2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Clifton Forge."

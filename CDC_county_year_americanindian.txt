@@ -1,0 +1,202 @@
+"Notes"	"County"	"County Code"	"Year"	"Year Code"	Deaths	Population	Crude Rate	Crude Rate Lower 95% Confidence Interval	Crude Rate Upper 95% Confidence Interval
+	"Anchorage Borough, AK"	"02020"	"2015"	"2015"	13	552	23.6 (Unreliable)	12.5	40.3
+	"Apache County, AZ"	"04001"	"1999"	"1999"	10	1054	9.5 (Unreliable)	4.5	17.4
+	"Apache County, AZ"	"04001"	"2000"	"2000"	17	1041	16.3 (Unreliable)	9.5	26.1
+	"Apache County, AZ"	"04001"	"2001"	"2001"	10	916	10.9 (Unreliable)	5.2	20.1
+	"Apache County, AZ"	"04001"	"2004"	"2004"	11	1029	10.7 (Unreliable)	5.3	19.1
+	"Apache County, AZ"	"04001"	"2005"	"2005"	10	1019	9.8 (Unreliable)	4.7	18.0
+	"Apache County, AZ"	"04001"	"2008"	"2008"	14	906	15.5 (Unreliable)	8.4	25.9
+	"Apache County, AZ"	"04001"	"2009"	"2009"	10	913	11.0 (Unreliable)	5.3	20.1
+	"Apache County, AZ"	"04001"	"2014"	"2014"	10	759	13.2 (Unreliable)	6.3	24.2
+	"Maricopa County, AZ"	"04013"	"1999"	"1999"	15	1467	10.2 (Unreliable)	5.7	16.9
+	"Maricopa County, AZ"	"04013"	"2000"	"2000"	15	1493	10.0 (Unreliable)	5.6	16.6
+	"Maricopa County, AZ"	"04013"	"2001"	"2001"	19	2138	8.9 (Unreliable)	5.4	13.9
+	"Maricopa County, AZ"	"04013"	"2002"	"2002"	10	2131	4.7 (Unreliable)	2.3	8.6
+	"Maricopa County, AZ"	"04013"	"2003"	"2003"	15	2449	6.1 (Unreliable)	3.4	10.1
+	"Maricopa County, AZ"	"04013"	"2004"	"2004"	12	2507	4.8 (Unreliable)	2.5	8.4
+	"Maricopa County, AZ"	"04013"	"2005"	"2005"	11	2481	4.4 (Unreliable)	2.2	7.9
+	"Maricopa County, AZ"	"04013"	"2006"	"2006"	13	2514	5.2 (Unreliable)	2.8	8.8
+	"Maricopa County, AZ"	"04013"	"2008"	"2008"	13	2685	4.8 (Unreliable)	2.6	8.3
+	"Maricopa County, AZ"	"04013"	"2009"	"2009"	14	2284	6.1 (Unreliable)	3.4	10.3
+	"Maricopa County, AZ"	"04013"	"2010"	"2010"	11	2316	4.7 (Unreliable)	2.4	8.5
+	"Maricopa County, AZ"	"04013"	"2011"	"2011"	12	2459	4.9 (Unreliable)	2.5	8.5
+	"Maricopa County, AZ"	"04013"	"2012"	"2012"	12	2684	4.5 (Unreliable)	2.3	7.8
+	"Maricopa County, AZ"	"04013"	"2013"	"2013"	10	2650	3.8 (Unreliable)	1.8	6.9
+	"Maricopa County, AZ"	"04013"	"2014"	"2014"	16	2519	6.4 (Unreliable)	3.6	10.3
+	"Maricopa County, AZ"	"04013"	"2015"	"2015"	11	2449	4.5 (Unreliable)	2.2	8.0
+	"Navajo County, AZ"	"04017"	"2005"	"2005"	10	1114	9.0 (Unreliable)	4.3	16.5
+	"Navajo County, AZ"	"04017"	"2007"	"2007"	17	1094	15.5 (Unreliable)	9.1	24.9
+	"Navajo County, AZ"	"04017"	"2011"	"2011"	11	1064	10.3 (Unreliable)	5.2	18.5
+	"Navajo County, AZ"	"04017"	"2012"	"2012"	13	985	13.2 (Unreliable)	7.0	22.6
+	"Pima County, AZ"	"04019"	"2001"	"2001"	10	813	12.3 (Unreliable)	5.9	22.6
+	"McKinley County, NM"	"35031"	"1999"	"1999"	12	1127	10.6 (Unreliable)	5.5	18.6
+	"McKinley County, NM"	"35031"	"2001"	"2001"	13	1058	12.3 (Unreliable)	6.5	21.0
+	"McKinley County, NM"	"35031"	"2003"	"2003"	10	1041	9.6 (Unreliable)	4.6	17.7
+	"McKinley County, NM"	"35031"	"2004"	"2004"	13	1059	12.3 (Unreliable)	6.5	21.0
+	"McKinley County, NM"	"35031"	"2005"	"2005"	11	1054	10.4 (Unreliable)	5.2	18.7
+	"McKinley County, NM"	"35031"	"2006"	"2006"	10	1083	9.2 (Unreliable)	4.4	17.0
+	"McKinley County, NM"	"35031"	"2007"	"2007"	11	1096	10.0 (Unreliable)	5.0	18.0
+	"McKinley County, NM"	"35031"	"2011"	"2011"	11	1066	10.3 (Unreliable)	5.2	18.5
+	"San Juan County, NM"	"35045"	"2000"	"2000"	10	735	13.6 (Unreliable)	6.5	25.0
+	"San Juan County, NM"	"35045"	"2009"	"2009"	11	1075	10.2 (Unreliable)	5.1	18.3
+	"Robeson County, NC"	"37155"	"1999"	"1999"	17	880	19.3 (Unreliable)	11.3	30.9
+	"Robeson County, NC"	"37155"	"2000"	"2000"	10	887	11.3 (Unreliable)	5.4	20.7
+	"Robeson County, NC"	"37155"	"2002"	"2002"	13	873	14.9 (Unreliable)	7.9	25.5
+	"Robeson County, NC"	"37155"	"2004"	"2004"	10	852	11.7 (Unreliable)	5.6	21.6
+	"Robeson County, NC"	"37155"	"2006"	"2006"	10	943	10.6 (Unreliable)	5.1	19.5
+	"Robeson County, NC"	"37155"	"2007"	"2007"	15	974	15.4 (Unreliable)	8.6	25.4
+	"Robeson County, NC"	"37155"	"2008"	"2008"	23	971	23.7	15.0	35.5
+	"Robeson County, NC"	"37155"	"2009"	"2009"	11	976	11.3 (Unreliable)	5.6	20.2
+	"Robeson County, NC"	"37155"	"2012"	"2012"	10	862	11.6 (Unreliable)	5.6	21.3
+	"Robeson County, NC"	"37155"	"2013"	"2013"	12	891	13.5 (Unreliable)	7.0	23.5
+	"Tulsa County, OK"	"40143"	"2009"	"2009"	13	876	14.8 (Unreliable)	7.9	25.4
+	"Shannon County, SD"	"46113"	"2008"	"2008"	11	333	33.0 (Unreliable)	16.5	59.1
+	"Shannon County, SD"	"46113"	"2012"	"2012"	10	304	32.9 (Unreliable)	15.8	60.5
+"---"
+"Dataset: Compressed Mortality, 1999-2015"
+"Query Parameters:"
+"Title:"
+"2013 Urbanization: All"
+"Age Group: < 1 year"
+"Gender: All"
+"Hispanic Origin: All"
+"ICD-10 Codes: All"
+"Race: American Indian or Alaska Native"
+"States: All"
+"Year: All, 1999 to 2015"
+"Group By: County, Year"
+"Show Totals: Disabled"
+"Show Zero Values: False"
+"Show Suppressed: False"
+"Calculate Rates Per: 1,000"
+"---"
+"Help: See http://wonder.cdc.gov/wonder/help/cmf.html for more information."
+"---"
+"Query Date: Oct 9, 2017 4:01:16 AM"
+"---"
+"Suggested Citation: Centers for Disease Control and Prevention, National Center for Health Statistics. Compressed Mortality File"
+"1999-2015 on CDC WONDER Online Database, released December 2016. Data are from the Compressed Mortality File 1999-2015 Series 20"
+"No. 2U, 2016, as compiled from data provided by the 57 vital statistics jurisdictions through the Vital Statistics Cooperative"
+"Program. Accessed at http://wonder.cdc.gov/cmf-icd10.html on Oct 9, 2017 4:01:16 AM"
+"---"
+Messages:
+"1. Totals are not available for these results due to suppression constraints. More Information:"
+"http://wonder.cdc.gov/wonder/help/faq.html#Privacy."
+"2. Rows with zero Deaths are hidden. Use Quick Options above to show zero rows."
+"3. Rows with suppressed Deaths are hidden. Use Quick Options above to show suppressed rows."
+"---"
+Footnotes:
+"1. Data are not available for this area for all of the requested years. See Caveats below for more information."
+"2. Data discontinuity due to county line boundary changes in requested years. See Caveats below for more information."
+"3. Deaths for Allen Parish, Louisiana are under reported in years 2006 through 2008. See Caveats below for more information."
+"---"
+Caveats:
+"1. Due to confidentiality constraints, sub-national death counts and rates are suppressed when the number of deaths is less than"
+"10. Figures representing infant deaths and births have additional constraints for national and local data. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Assurance of Confidentiality."
+"2. Death rates are flagged as Unreliable when the rate is calculated with a numerator of 20 or less. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Unreliable."
+"3. About sub-national population figures for regions, divisions, states and counties: population figures for 1999 are from the"
+"1990-1999 series of bridged-race intercensal estimates of the July 1 resident population; population figures for 2000 and 2010"
+"are bridged-race April 1 census counts; population figures for 2001-2009 are from the revised 2000-2009 series of bridged-race"
+"intercensal estimates of the July 1 resident population; and population figures for 2011-2015 are bridged-race postcensal"
+"estimates of the July 1 resident population, from the Vintage 2015 series released by NCHS on June 28, 2016."
+"4. The population figures used in the calculation of death rates for the age group 'under 1 year' are the estimates of the"
+"resident population that is under one year of age. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Age Group."
+"5. Deaths of persons with Age ""Not Stated"" are included in ""All"" counts and rates, but are not distributed among age groups,"
+"so are not included in age-specific counts, age-specific rates or in any age-adjusted rates. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Not Stated."
+"6. Information included on the death certificate about the race and Hispanic ethnicity of the decedent is reported by the"
+"funeral director as provided by an informant, often the surviving next of kin, or, in the absence of an informant, on the basis"
+"of observation. Race and ethnicity information from the census is by self-report. To the extent that race and Hispanic origin"
+"are inconsistent between these two data sources, death rates will be biased. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Racial Differences."
+"7. The method used to calculate 95% confidence intervals is documented here: More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Confidence-Intervals."
+"8. As of April 3, 2017, the underlying cause of death has been revised for 125 deaths in 2014. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#2014-Revision."
+"9. Denali Borough, Alaska (FIPS code 02068) data are only available for 2003 and later; for computational purposes, counts and"
+"population estimates for 1999-2002 are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not"
+"include any data for years prior to 2003, only data for 2003 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Denali Borough."
+"10. Hoonah-Angoon Census Area, Alaska (FIPS code 02105) data are only available for 2014 and later; for computational purposes,"
+"counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for this"
+"entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Hoonah-Angoon Census Area."
+"11. Petersburg Borough/Census Area, Alaska (FIPS code 02195) data are only available for 2014 and later; for computational"
+"purposes, counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for"
+"this entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Petersburg Borough/Census Area."
+"12. Prince of Wales-Hyder Census Area, Alaska (FIPS code 02198) data are only available for 2014 and later; for computational"
+"purposes, counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for"
+"this entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Prince of Wales-Hyder Census Area."
+"13. Prince of Wales-Outer Ketchikan Census Area, Alaska (FIPS code 02201) data are available only for 1999-2013. For 2014 and"
+"beyond, death counts and population estimates for Prince of Wales-Outer Ketchikan Census Area Census Area are reported as Prince"
+"of Wales-Hyder Census Area (FIPS code 02198). Death counts and population estimates for this entity from multi-year requests,"
+"only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Prince of Wales-Outer Ketchikan Census Area."
+"14. Skagway Municipality, Alaska (FIPS code 02230) data are only available for 2014 and later; for computational purposes,"
+"counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for this"
+"entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Skagway Municipality."
+"15. Skagway-Hoonah-Angoon Census Area, Alaska (FIPS code 02232) data are available only for 1999-2013. For 2014 and beyond,"
+"death counts and population estimates for Skagway-Hoonah-Angoon Census Area are reported as Hoonah-Angoon Census Area(FIPS code"
+"02105) and Skagway Municipality, (FIPS code 02230). Death counts and population estimates for this entity from multi-year"
+"requests, only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Skagway-Hoonah-Angoon Census Area."
+"16. Wrangell City and Borough, Alaska (FIPS code 02275) data are only available for 2014 and later; for computational purposes,"
+"counts and population estimates for 1999-2013 are set to zero. Thus, counts and rates shown in multi-year requests for this"
+"entity do not include any data for years prior to 2014, only data for 2014 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Wrangell City and Borough."
+"17. Wrangell-Petersburg Census Area, Alaska (FIPS code 02280) data are available only for 1999-2013. For 2014 and beyond, death"
+"counts and population estimates for Wrangell-Petersburg Census Area are reported as Petersburg Borough/Census Area (FIPS code"
+"02195) and Wrangell City and Borough, (FIPS code 02275). Death counts and population estimates for this entity from multi-year"
+"requests, only reflect data from 1999 through 2013; for 2014 and beyond they have been set to zero. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Wrangell-Petersburg Census Area."
+"18. Yukon-Koyukuk Census Area (FIPS code 02290) has a discontinuity in the mortality and population data between the years 2002"
+"and 2003. This discontinuity occurs because part of Yukon-Koyukuk Census Area became Denali Borough, Alaska (FIPS code 02068)"
+"and beginning in 2003, deaths and population counts for this former part of Yukon-Koyukuk are reported for Denali Borough and"
+"are no longer included with data for Yukon-Koyukuk. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Yukon-Koyukuk,"
+"Alaska."
+"19. Adams County, Colorado (FIPS code 08001) has a discontinuity in the mortality and population data between the years 2002 and"
+"2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new county,"
+"Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported with"
+"Broomfield county and are no longer included with data for Adams County."
+"20. Boulder County, Colorado (FIPS code 08013) has a discontinuity in the mortality and population data between the years 2002"
+"and 2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new"
+"county, Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported"
+"with Broomfield county and are no longer included with data for Boulder County."
+"21. Broomfield, Colorado (FIPS code 08014) data are only available for 2003 and later; for computational purposes, counts and"
+"population estimates for 1999-2002 are set to zero. Thus, counts and rates shown in multi-year requests for this entity do not"
+"include any data for years prior to 2003, only data for 2003 and later. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Broomfield."
+"22. Jefferson County, Colorado (FIPS code 08059) has a discontinuity in the mortality and population data between the years 2002"
+"and 2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new"
+"county, Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported"
+"with Broomfield county and are no longer included with data for Jefferson County."
+"23. Weld County, Colorado (FIPS code 08123) has a discontinuity in the mortality and population data between the years 2002 and"
+"2003. This discontinuity occurs because territory in this county has been combined with other territory to form a new county,"
+"Broomfield, Colorado (FIPS code 08014). Beginning in 2003 deaths and population counts for this territory are reported with"
+"Broomfield county and are no longer included with data for Weld County."
+"24. Allen Parish, Louisiana (FIPS code 22003) data in 2006 through 2008 are under reported due to problems with registering the"
+"deaths with the Louisiana Vital Statistics Office."
+"25. Carson City, Nevada (FIPS code 32510) data are shown separately from the adjacent counties for."
+"26. Baltimore city, Maryland (FIPS code 24510) and Baltimore County, Maryland (FIPS code 24005) data are reported separately."
+"27. St. Louis city, Missouri (FIPS code 29510) and St. Louis County, Missouri (FIPS code 29189) data are reported separately."
+"28. Alleghany, Virginia (FIPS code 51005) has a discontinuity in the mortality and population data between the years 2000 and"
+"2001. This discontinuity occurs because for 2001 and beyond, death counts and population estimates for Clifton Forge city,"
+"Virginia (FIPS code 51560) have been combined with those for Alleghany county. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Alleghany, Virginia."
+"29. Bedford city, Virginia (FIPS code 51515) data are available only for 1999-2010. For 2011 and beyond, death counts and"
+"population estimates for Bedford city have been combined with Bedford County (FIPS code 51019). Death counts and population"
+"estimates for this entity from multi-year requests, only reflect data from 1999 through 2010; for 2011 and beyond they have been"
+"set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Bedford-Virginia."
+"30. Bedford County (FIPS code 51019) has a discontinuity in the mortality and population data between the years 2010 and 2011."
+"This discontinuity occurs because for 2011 and beyond, death counts and population estimates for Bedford city, Virginia (FIPS"
+"code 51515) have been combined with those for Bedford County. More information:"
+"http://wonder.cdc.gov/wonder/help/cmf.html#Bedford-Virginia."
+"31. Clifton Forge city, Virginia (FIPS code 51560) data are available only for 1999-2000. For 2001 and beyond, death counts and"
+"population estimates for Clifton Forge city have been combined with those for Alleghany county, Virginia (FIPS code 51005)."
+"Death counts and population estimates for this entity from multi-year requests, only reflect data from 1999 through 2000; for"
+"2001 and beyond they have been set to zero. More information: http://wonder.cdc.gov/wonder/help/cmf.html#Clifton Forge."
