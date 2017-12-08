@@ -8,7 +8,7 @@ library(tigris)
 library(utils)
 
 # set census api key. Obtain from http://api.census.gov/data/key_signup.html
-census_api_key("insert your key here!", install = TRUE)
+census_api_key("73d546eccffc93e60660844710579fa8c64f8ea0", install = TRUE)
 readRenviron("~/.Renviron")
 
 # create list of US states, by two-letter abbrevations, plus DC and PR
@@ -120,7 +120,7 @@ is.nan.data.frame <- function(x)
 counties[is.nan(counties)] <- 0
 
 # save as CSV
-write_csv(counties,"data/counties.csv", na="")
+write_csv(counties,"data/counties2011_2015.csv", na="")
 
 # works with TIGRIS package to obtain Census Bureau shapefiles
 options(tigris_use_cache = TRUE)
