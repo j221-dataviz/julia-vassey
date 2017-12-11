@@ -1,0 +1,16 @@
+#layer {
+  
+  polygon-fill: ramp([infnt__], (#ffc6c4, #f4a3a8, #e38191, #cc607d, #ad466c, #8b3058, #672044), quantiles);
+  
+  [infnt__=null] {
+    polygon-fill: #cccccc;
+    polygon-opacity: 0
+     
+  }
+  
+}
+#layer::outline {
+  line-width: 1;
+  line-color: #686868;
+  line-opacity: 0.2;
+}
